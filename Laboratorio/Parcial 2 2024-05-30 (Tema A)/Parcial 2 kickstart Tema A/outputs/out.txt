@@ -1,0 +1,31 @@
+./show_initiative ./inputs/character3.in
+=== CHARACTERS INITIATIVE (3) ===
+[3.2000] -> Character name: Nadia, Alive? Yes, ctype: Tank, agility: 4
+[0.0000] -> Character name: Oscar, Alive? No, ctype: Agile, agility: 4
+[0.0000] -> Character name: Conan, Alive? No, ctype: Agile, agility: 10
+
+./show_initiative ./inputs/character3sameinitiative.in
+=== CHARACTERS INITIATIVE (3) ===
+[6.0000] -> Character name: Nadia, Alive? Yes, ctype: Agile, agility: 4
+[6.0000] -> Character name: Oscar, Alive? Yes, ctype: Agile, agility: 4
+[6.0000] -> Character name: Conan, Alive? Yes, ctype: Agile, agility: 4
+
+./show_initiative ./inputs/character4.in
+=== CHARACTERS INITIATIVE (4) ===
+[3.2000] -> Character name: Nadia, Alive? Yes, ctype: Tank, agility: 4
+[0.0000] -> Character name: Oscar, Alive? No, ctype: Agile, agility: 4
+[0.0000] -> Character name: Conan, Alive? No, ctype: Agile, agility: 10
+[0.0000] -> Character name: Eddie, Alive? No, ctype: Magic, agility: 9
+
+./show_initiative ./inputs/character9.in
+=== CHARACTERS INITIATIVE (9) ===
+[12.0000] -> Character name: Lenny, Alive? Yes, ctype: Agile, agility: 8
+[9.0000] -> Character name: Eddie, Alive? Yes, ctype: Magic, agility: 9
+[7.5000] -> Character name: Alice, Alive? Yes, ctype: Agile, agility: 5
+[6.0000] -> Character name: Mario, Alive? Yes, ctype: Physical, agility: 6
+[4.8000] -> Character name: Bella, Alive? Yes, ctype: Tank, agility: 6
+[3.2000] -> Character name: Oscar, Alive? Yes, ctype: Tank, agility: 4
+[3.0000] -> Character name: Nadia, Alive? Yes, ctype: Physical, agility: 3
+[2.0000] -> Character name: Eliza, Alive? Yes, ctype: Magic, agility: 2
+[0.0000] -> Character name: Conan, Alive? No, ctype: Tank, agility: 6
+
